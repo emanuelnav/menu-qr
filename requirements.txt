@@ -1,5 +1,8 @@
 asgiref==3.7.2
 backports.zoneinfo==0.2.1
 Django==4.2.2
+Pillow==9.5.0
+pypng==0.20220715.0
+qrcode==7.4.2
 sqlparse==0.4.4
 typing_extensions==4.6.3
